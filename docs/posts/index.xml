@@ -1,25 +1,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Hello Friend NG</title>
-        <link>https://dcardellino.github.io/posts/</link>
-        <description>Recent content in Posts on Hello Friend NG</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 01 Jan 2023 10:25:59 +0100</lastBuildDate>
-        <atom:link href="https://dcardellino.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Test</title>
-            <link>https://dcardellino.github.io/posts/test/</link>
-            <pubDate>Sun, 01 Jan 2023 10:25:59 +0100</pubDate>
-            
-            <guid>https://dcardellino.github.io/posts/test/</guid>
-            <description>This is the first post. It is written in markdown.</description>
-            <content type="html"><![CDATA[<h1 id="this-is-the-first-post">This is the first post.</h1>
+	<channel>
+		<title>Posts on Dominic Cardellino</title>
+		<link>https://dcardellino.github.io/posts/</link>
+		<description>Recent content in Posts on Dominic Cardellino</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sun, 01 Jan 2023 10:25:59 +0100</lastBuildDate>
+		<atom:link href="https://dcardellino.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Test</title>
+			<link>https://dcardellino.github.io/posts/test/</link>
+			<pubDate>Sun, 01 Jan 2023 10:25:59 +0100</pubDate>
+			
+			<guid>https://dcardellino.github.io/posts/test/</guid>
+			<description>This is the first post. It is written in markdown.</description>
+			<content type="html"><![CDATA[<h1 id="this-is-the-first-post">This is the first post.</h1>
 <p>It is written in <strong>markdown</strong>.</p>
 ]]></content>
-        </item>
-        
-    </channel>
+		</item>
+		
+	</channel>
 </rss>

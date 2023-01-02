@@ -12,7 +12,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "G-PCQN5NXLZG"
 # disqusShortname = "yourdiscussshortname"
-
+publishDir = "docs"
 [author]
   name = "Dominic Cardellino"
 
