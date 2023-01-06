@@ -1,20 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://dcardellino.github.io/</loc>
-    <lastmod>2023-01-01T10:25:59+01:00</lastmod>
-  </url><url>
-    <loc>https://dcardellino.github.io/posts/</loc>
-    <lastmod>2023-01-01T10:25:59+01:00</lastmod>
-  </url><url>
-    <loc>https://dcardellino.github.io/tags/</loc>
-    <lastmod>2023-01-01T10:25:59+01:00</lastmod>
-  </url><url>
-    <loc>https://dcardellino.github.io/posts/test/</loc>
-    <lastmod>2023-01-01T10:25:59+01:00</lastmod>
-  </url><url>
-    <loc>https://dcardellino.github.io/tags/untagged/</loc>
-    <lastmod>2023-01-01T10:25:59+01:00</lastmod>
-  </url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://dcardellino.github.io/</loc><lastmod>2023-01-01T17:58:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dcardellino.github.io/posts/</loc><lastmod>2023-01-01T17:58:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dcardellino.github.io/tags/</loc><lastmod>2023-01-01T17:58:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dcardellino.github.io/test/</loc><lastmod>2023-01-01T17:58:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dcardellino.github.io/tags/untagged/</loc><lastmod>2023-01-01T17:58:40&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dcardellino.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
