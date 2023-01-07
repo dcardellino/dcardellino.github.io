@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>personal - Tag - cpt.chaozz | My DevOps Journey</title>
+        <link>https://dcardellino.github.io/tags/personal/</link>
+        <description>personal - Tag - cpt.chaozz | My DevOps Journey</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dominic@cardellino.tech (Dominic Cardellino)</managingEditor>
+            <webMaster>dominic@cardellino.tech (Dominic Cardellino)</webMaster><lastBuildDate>Sat, 07 Jan 2023 07:19:15 &#43;0100</lastBuildDate><atom:link href="https://dcardellino.github.io/tags/personal/" rel="self" type="application/rss+xml" /><item>
+    <title>About</title>
+    <link>https://dcardellino.github.io/about/</link>
+    <pubDate>Sat, 07 Jan 2023 07:19:15 &#43;0100</pubDate>
+    <author>Dominic Cardellino</author>
+    <guid>https://dcardellino.github.io/about/</guid>
+    <description><![CDATA[<p>Hello and welcome to my Blog!</p>
+<p>I am Dominic Cardellino. Currently I&rsquo;m a Senior Kubernetes Engineer at a Software Engineering company based in Hamburg, Germany.
+I live in the south of Germany near Stuttgart. So I do my job full remote.</p>]]></description>
+</item>
+</channel>
+</rss>

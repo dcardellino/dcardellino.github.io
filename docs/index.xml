@@ -3,8 +3,8 @@
         <title>cpt.chaozz | My DevOps Journey</title>
         <link>https://dcardellino.github.io/</link>
         <description>A guy writing about his DevOps Journey</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dominic@cardellino.tech (cpt.chaozz)</managingEditor>
-            <webMaster>dominic@cardellino.tech (cpt.chaozz)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>dominic@cardellino.tech (Dominic Cardellino)</managingEditor>
+            <webMaster>dominic@cardellino.tech (Dominic Cardellino)</webMaster><lastBuildDate>Sat, 07 Jan 2023 07:19:15 &#43;0100</lastBuildDate>
             <atom:link href="https://dcardellino.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
