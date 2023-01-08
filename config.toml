@@ -49,6 +49,14 @@ theme = "LoveIt"
     url = "/about/"
     title = ""
     weight = 4
+  [[menu.main]]
+    identifier = "test"
+    pre = ""
+    post = ""
+    name = "TEST"
+    url = "test.html"
+    title = ""
+    weight = 4
 
 
 [params]
